@@ -1,0 +1,7 @@
+.history
+.vscode
+build/
+output/
+
+# CMakeLists.txt
+# main.cpp

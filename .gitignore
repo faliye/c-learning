@@ -3,5 +3,5 @@
 build/
 output/
 
-# CMakeLists.txt
-# main.cpp
+CMakeLists.txt
+main.cpp
